@@ -1,0 +1,22 @@
+{
+  "name": "simple-express-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgee258/simple-express-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgee258/simple-express-site/issues"
+  },
+  "homepage": "https://github.com/rgee258/simple-express-site#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
